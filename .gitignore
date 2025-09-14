@@ -1,0 +1,13 @@
+# PHP-related ignores
+/vendor/
+/node_modules/
+/.env
+*.log
+*.sql
+*.sqlite
+*.bak
+*.tmp
+*.cache
+.DS_Store
+.idea/
+*.swp
